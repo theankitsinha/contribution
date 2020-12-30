@@ -6,3 +6,5 @@ Update documentation: 2020-12-30 08:46
 
 Refactor code: 2020-12-31 02:13
 
+Implement a test case: 2020-12-30 12:43
+
