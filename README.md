@@ -24,3 +24,5 @@ Add a new feature: 2021-01-01 14:48
 
 Refactor code: 2021-01-01 23:58
 
+Fix a bug: 2021-01-01 12:08
+
