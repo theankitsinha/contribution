@@ -38,3 +38,5 @@ Add a new feature: 2021-01-03 14:52
 
 Update documentation: 2021-01-03 14:42
 
+Refactor code: 2021-01-03 08:06
+
