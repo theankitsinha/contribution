@@ -40,3 +40,5 @@ Update documentation: 2021-01-03 14:42
 
 Refactor code: 2021-01-03 08:06
 
+Implement a test case: 2021-01-04 07:35
+
