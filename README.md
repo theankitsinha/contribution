@@ -50,3 +50,5 @@ Implement a test case: 2021-01-11 13:25
 
 Implement a test case: 2021-01-11 22:29
 
+Refactor code: 2021-01-11 17:45
+
