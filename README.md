@@ -64,3 +64,5 @@ Fix a bug: 2021-01-17 14:46
 
 Implement a test case: 2021-01-17 20:10
 
+Refactor code: 2021-01-17 08:02
+
