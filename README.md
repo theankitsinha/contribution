@@ -62,3 +62,5 @@ Fix a bug: 2021-01-17 19:39
 
 Fix a bug: 2021-01-17 14:46
 
+Implement a test case: 2021-01-17 20:10
+
