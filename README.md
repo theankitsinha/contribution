@@ -76,3 +76,5 @@ Fix a bug: 2021-01-20 18:15
 
 Refactor code: 2021-01-21 00:51
 
+Implement a test case: 2021-01-20 23:39
+
