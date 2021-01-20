@@ -74,3 +74,5 @@ Update documentation: 2021-01-17 19:01
 
 Fix a bug: 2021-01-20 18:15
 
+Refactor code: 2021-01-21 00:51
+
