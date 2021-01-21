@@ -80,3 +80,5 @@ Implement a test case: 2021-01-20 23:39
 
 Refactor code: 2021-01-20 19:46
 
+Fix a bug: 2021-01-21 11:43
+
