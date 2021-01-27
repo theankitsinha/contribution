@@ -94,3 +94,5 @@ Refactor code: 2021-01-24 17:24
 
 Refactor code: 2021-01-27 18:43
 
+Update documentation: 2021-01-27 10:31
+
