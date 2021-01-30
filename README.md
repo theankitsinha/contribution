@@ -98,3 +98,5 @@ Update documentation: 2021-01-27 10:31
 
 Add a new feature: 2021-01-28 07:29
 
+Fix a bug: 2021-01-30 22:21
+
