@@ -108,3 +108,5 @@ Implement a test case: 2021-01-30 15:33
 
 Refactor code: 2021-01-30 13:38
 
+Update documentation: 2021-01-30 12:33
+
