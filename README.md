@@ -114,3 +114,5 @@ Add a new feature: 2021-01-30 15:19
 
 Implement a test case: 2021-01-31 05:19
 
+Fix a bug: 2021-01-31 23:43
+
