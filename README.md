@@ -126,3 +126,5 @@ Add a new feature: 2021-01-31 12:59
 
 Add a new feature: 2021-01-31 22:35
 
+Fix a bug: 2021-02-02 06:44
+
