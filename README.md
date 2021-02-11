@@ -154,3 +154,5 @@ Refactor code: 2021-02-11 21:49
 
 Implement a test case: 2021-02-11 11:12
 
+Update documentation: 2021-02-11 23:19
+
