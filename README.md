@@ -150,3 +150,5 @@ Fix a bug: 2021-02-10 22:39
 
 Implement a test case: 2021-02-11 10:24
 
+Refactor code: 2021-02-11 21:49
+
