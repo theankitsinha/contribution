@@ -192,3 +192,5 @@ Add a new feature: 2021-02-25 21:59
 
 Implement a test case: 2021-02-25 18:00
 
+Fix a bug: 2021-02-27 10:21
+
