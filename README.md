@@ -198,3 +198,5 @@ Add a new feature: 2021-02-27 19:37
 
 Implement a test case: 2021-02-28 00:37
 
+Update documentation: 2021-02-28 10:17
+
