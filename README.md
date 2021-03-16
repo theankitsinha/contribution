@@ -290,3 +290,5 @@ Refactor code: 2021-03-13 12:40
 
 Add a new feature: 2021-03-16 08:39
 
+Implement a test case: 2021-03-16 12:14
+
