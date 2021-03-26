@@ -356,3 +356,5 @@ Update documentation: 2021-03-26 05:05
 
 Add a new feature: 2021-03-26 01:50
 
+Refactor code: 2021-03-26 06:02
+
