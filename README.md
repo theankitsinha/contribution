@@ -402,3 +402,5 @@ Add a new feature: 2021-04-02 16:40
 
 Update documentation: 2021-04-03 03:06
 
+Fix a bug: 2021-04-02 20:27
+
