@@ -404,3 +404,5 @@ Update documentation: 2021-04-03 03:06
 
 Fix a bug: 2021-04-02 20:27
 
+Refactor code: 2021-04-06 14:24
+
