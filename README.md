@@ -496,3 +496,5 @@ Fix a bug: 2021-04-30 02:38
 
 Update documentation: 2021-04-29 09:33
 
+Refactor code: 2021-04-30 05:22
+
