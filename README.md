@@ -506,3 +506,5 @@ Refactor code: 2021-04-29 08:29
 
 Add a new feature: 2021-04-30 02:14
 
+Fix a bug: 2021-05-04 02:00
+
