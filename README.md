@@ -526,3 +526,5 @@ Fix a bug: 2021-05-04 06:43
 
 Implement a test case: 2021-05-03 08:17
 
+Refactor code: 2021-05-04 12:04
+
