@@ -566,3 +566,5 @@ Add a new feature: 2021-05-26 14:24
 
 Implement a test case: 2021-05-26 10:41
 
+Fix a bug: 2021-05-26 10:58
+
