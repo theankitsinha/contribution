@@ -576,3 +576,5 @@ Update documentation: 2021-05-30 15:15
 
 Fix a bug: 2021-05-30 22:20
 
+Refactor code: 2021-05-30 23:46
+
