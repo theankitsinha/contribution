@@ -592,3 +592,5 @@ Fix a bug: 2021-06-01 04:03
 
 Add a new feature: 2021-05-31 10:42
 
+Refactor code: 2021-06-01 02:53
+
