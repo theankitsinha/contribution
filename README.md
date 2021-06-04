@@ -600,3 +600,5 @@ Add a new feature: 2021-05-31 15:13
 
 Add a new feature: 2021-06-04 18:25
 
+Fix a bug: 2021-06-04 13:23
+
