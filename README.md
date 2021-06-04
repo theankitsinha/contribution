@@ -608,3 +608,5 @@ Update documentation: 2021-06-04 13:08
 
 Add a new feature: 2021-06-05 03:34
 
+Refactor code: 2021-06-05 03:15
+
