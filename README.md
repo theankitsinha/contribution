@@ -618,3 +618,5 @@ Update documentation: 2021-06-04 19:56
 
 Add a new feature: 2021-06-04 20:02
 
+Fix a bug: 2021-06-07 08:36
+
