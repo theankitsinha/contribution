@@ -700,3 +700,5 @@ Implement a test case: 2021-06-27 01:55
 
 Update documentation: 2021-06-26 16:42
 
+Fix a bug: 2021-06-26 13:39
+
