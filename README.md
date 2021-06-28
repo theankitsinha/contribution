@@ -708,3 +708,5 @@ Fix a bug: 2021-06-28 22:57
 
 Refactor code: 2021-06-28 23:52
 
+Implement a test case: 2021-06-29 04:09
+
