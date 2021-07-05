@@ -718,3 +718,5 @@ Refactor code: 2021-06-29 12:21
 
 Add a new feature: 2021-06-29 09:51
 
+Fix a bug: 2021-07-05 11:21
+
