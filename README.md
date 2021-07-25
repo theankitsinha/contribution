@@ -798,3 +798,5 @@ Add a new feature: 2021-07-25 17:00
 
 Implement a test case: 2021-07-25 10:54
 
+Fix a bug: 2021-07-25 20:06
+
