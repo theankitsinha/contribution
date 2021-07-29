@@ -806,3 +806,5 @@ Update documentation: 2021-07-28 07:47
 
 Add a new feature: 2021-07-29 18:02
 
+Fix a bug: 2021-07-29 21:42
+
