@@ -860,3 +860,5 @@ Fix a bug: 2021-08-03 20:29
 
 Refactor code: 2021-08-04 19:25
 
+Update documentation: 2021-08-04 11:11
+
