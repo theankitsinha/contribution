@@ -862,3 +862,5 @@ Refactor code: 2021-08-04 19:25
 
 Update documentation: 2021-08-04 11:11
 
+Implement a test case: 2021-08-08 09:51
+
