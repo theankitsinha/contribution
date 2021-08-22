@@ -906,3 +906,5 @@ Fix a bug: 2021-08-22 20:15
 
 Refactor code: 2021-08-22 22:09
 
+Update documentation: 2021-08-23 00:59
+
