@@ -930,3 +930,5 @@ Refactor code: 2021-08-25 15:12
 
 Update documentation: 2021-08-26 01:58
 
+Fix a bug: 2021-08-25 12:17
+
