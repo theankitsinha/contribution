@@ -926,3 +926,5 @@ Fix a bug: 2021-08-25 17:02
 
 Implement a test case: 2021-08-25 23:36
 
+Refactor code: 2021-08-25 15:12
+
