@@ -934,3 +934,5 @@ Fix a bug: 2021-08-25 12:17
 
 Add a new feature: 2021-08-26 00:31
 
+Refactor code: 2021-08-27 17:01
+
