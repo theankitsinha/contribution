@@ -1000,3 +1000,5 @@ Update documentation: 2021-09-12 23:23
 
 Update documentation: 2021-09-12 22:37
 
+Refactor code: 2021-09-12 19:30
+
