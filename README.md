@@ -1016,3 +1016,5 @@ Fix a bug: 2021-09-15 04:24
 
 Add a new feature: 2021-09-14 23:02
 
+Refactor code: 2021-09-15 00:55
+
