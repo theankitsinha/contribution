@@ -1068,3 +1068,5 @@ Add a new feature: 2021-09-27 07:49
 
 Add a new feature: 2021-09-26 11:37
 
+Refactor code: 2021-09-26 23:47
+
