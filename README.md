@@ -1062,3 +1062,5 @@ Add a new feature: 2021-09-26 04:10
 
 Fix a bug: 2021-09-27 03:17
 
+Update documentation: 2021-09-26 12:14
+
