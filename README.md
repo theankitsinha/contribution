@@ -1100,3 +1100,5 @@ Fix a bug: 2021-10-09 21:05
 
 Add a new feature: 2021-10-09 22:39
 
+Refactor code: 2021-10-10 00:10
+
