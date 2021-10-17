@@ -1120,3 +1120,5 @@ Add a new feature: 2021-10-16 10:31
 
 Implement a test case: 2021-10-17 19:31
 
+Refactor code: 2021-10-17 22:00
+
