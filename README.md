@@ -1318,3 +1318,5 @@ Add a new feature: 2021-12-05 06:01
 
 Add a new feature: 2021-12-07 18:48
 
+Fix a bug: 2021-12-08 05:22
+
