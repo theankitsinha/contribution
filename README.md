@@ -1400,3 +1400,5 @@ Implement a test case: 2022-01-01 00:45
 
 Add a new feature: 2021-12-31 09:30
 
+Fix a bug: 2021-12-31 20:59
+
