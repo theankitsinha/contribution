@@ -1636,3 +1636,5 @@ Update documentation: 2022-02-19 11:55
 
 Add a new feature: 2022-02-19 09:07
 
+Refactor code: 2022-02-19 12:50
+
