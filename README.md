@@ -1668,3 +1668,5 @@ Fix a bug: 2022-02-23 10:07
 
 Add a new feature: 2022-02-23 22:35
 
+Refactor code: 2022-02-23 19:21
+
