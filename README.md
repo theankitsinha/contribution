@@ -1706,3 +1706,5 @@ Add a new feature: 2022-03-04 19:37
 
 Fix a bug: 2022-03-04 21:11
 
+Refactor code: 2022-03-04 19:50
+
