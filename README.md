@@ -1948,3 +1948,5 @@ Update documentation: 2022-04-07 14:03
 
 Add a new feature: 2022-04-07 16:57
 
+Refactor code: 2022-04-15 13:46
+
