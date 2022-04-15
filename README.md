@@ -1958,3 +1958,5 @@ Fix a bug: 2022-04-15 21:11
 
 Update documentation: 2022-04-15 23:14
 
+Refactor code: 2022-04-15 20:01
+
