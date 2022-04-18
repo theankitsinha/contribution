@@ -1982,3 +1982,5 @@ Fix a bug: 2022-04-19 00:04
 
 Refactor code: 2022-04-18 18:14
 
+Update documentation: 2022-04-19 00:40
+
