@@ -1998,3 +1998,5 @@ Fix a bug: 2022-04-21 12:56
 
 Implement a test case: 2022-04-22 06:08
 
+Refactor code: 2022-04-23 08:04
+
