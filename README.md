@@ -2088,3 +2088,5 @@ Refactor code: 2022-05-20 13:52
 
 Add a new feature: 2022-05-20 12:31
 
+Fix a bug: 2022-05-20 19:25
+
