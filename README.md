@@ -2106,3 +2106,5 @@ Add a new feature: 2022-05-25 15:43
 
 Fix a bug: 2022-05-25 12:52
 
+Refactor code: 2022-05-26 00:38
+
