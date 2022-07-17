@@ -2340,3 +2340,5 @@ Implement a test case: 2022-07-15 00:14
 
 Add a new feature: 2022-07-14 11:25
 
+Fix a bug: 2022-07-17 15:42
+
