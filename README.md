@@ -2504,3 +2504,5 @@ Fix a bug: 2022-08-30 21:31
 
 Update documentation: 2022-08-30 18:33
 
+Refactor code: 2022-08-30 16:07
+
