@@ -2592,3 +2592,5 @@ Add a new feature: 2022-09-14 15:04
 
 Update documentation: 2022-09-18 11:05
 
+Refactor code: 2022-09-18 18:54
+
