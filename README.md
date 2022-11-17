@@ -2760,3 +2760,5 @@ Update documentation: 2022-11-17 16:07
 
 Add a new feature: 2022-11-17 17:41
 
+Refactor code: 2022-11-17 11:13
+
