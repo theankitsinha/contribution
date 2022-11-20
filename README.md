@@ -2782,3 +2782,5 @@ Update documentation: 2022-11-19 12:49
 
 Update documentation: 2022-11-19 18:53
 
+Refactor code: 2022-11-20 08:58
+
