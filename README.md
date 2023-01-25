@@ -3066,3 +3066,5 @@ Update documentation: 2023-01-25 19:45
 
 Add a new feature: 2023-01-25 11:45
 
+Refactor code: 2023-01-25 20:34
+
