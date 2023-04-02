@@ -3498,3 +3498,5 @@ Add a new feature: 2023-04-02 12:46
 
 Refactor code: 2023-04-02 14:23
 
+Update documentation: 2023-04-02 20:31
+
