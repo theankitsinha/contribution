@@ -3590,3 +3590,5 @@ Implement a test case: 2023-04-19 14:28
 
 Implement a test case: 2023-04-19 08:32
 
+Fix a bug: 2023-04-19 20:47
+
