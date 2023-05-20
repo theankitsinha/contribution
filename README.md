@@ -3686,3 +3686,5 @@ Implement a test case: 2023-05-21 01:56
 
 Fix a bug: 2023-05-20 19:19
 
+Refactor code: 2023-05-20 16:53
+
