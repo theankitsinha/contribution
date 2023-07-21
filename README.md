@@ -3924,3 +3924,5 @@ Fix a bug: 2023-07-16 06:34
 
 Add a new feature: 2023-07-16 01:08
 
+Refactor code: 2023-07-22 00:20
+
